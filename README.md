@@ -1,3 +1,9 @@
-# Sejam bem vinds ao meu repositório publico do GitHub
-
-<h1 style="color:blue;">Olá mundo!</h1>
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Readme</title>
+  </head>
+  <body>
+    <h1>Olá mundo!</h1>
+  </body>
+</html>
